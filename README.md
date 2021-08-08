@@ -23,6 +23,8 @@
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnzqFviM4WXu681Me473hKHxu2uHxIkiEWsArF5-2JTdTaamLQjwDxQqqH8a6TGh_5bI&usqp=CAU"></code>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=pr-db&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=pr-db&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-db&layout=compact&theme=radical" />
 	
 
   
