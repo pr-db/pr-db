@@ -19,7 +19,6 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
   <code><img height="40" src="https://lh3.googleusercontent.com/proxy/P1HgH_AjmgLpFDQ_wLCAI6BZfsRjEI3Hva9uktASk70Q3l8mReU0Puqd5fbkKFbHhsJ_WlQ5epWwcz-4c1QBzcgs24w9OuzRlq6kwUyI0U7ZodGbNp3P"></code>
   <code><img height="40" src="  https://pbs.twimg.com/profile_images/439919333074952192/tawatupH_400x400.png"></code>
-  <code><img height="40" src="https://blog.roverrobotics.com/wp-content/uploads/2019/07/rover-robotics-ros2-1024x650.jpg"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqiu-hjULb_PjgQp5BShFIAlbanJswzUvKZEPo8caeGzEh4prz7mEdW8aC1UVe5ToRqtU&usqp=CAU"></code>
   <code><img height="40" src="https://www.fatalerrors.org/images/blog/64dad673b14ed24d2733632b1afbc215.jpg"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnzqFviM4WXu681Me473hKHxu2uHxIkiEWsArF5-2JTdTaamLQjwDxQqqH8a6TGh_5bI&usqp=CAU"></code>
