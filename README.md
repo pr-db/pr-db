@@ -15,8 +15,8 @@
  #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtE6Pu3h4OL4EeieUX1yz0rcSBroJd9kCTJHeI1jMvAtdiezhOt0dbSJ53Yi9SuOEp1no&usqp=CAU"></code>
+  <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqiu-hjULb_PjgQp5BShFIAlbanJswzUvKZEPo8caeGzEh4prz7mEdW8aC1UVe5ToRqtU&usqp=CAU"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
   <code><img height="40" src="https://lh3.googleusercontent.com/proxy/P1HgH_AjmgLpFDQ_wLCAI6BZfsRjEI3Hva9uktASk70Q3l8mReU0Puqd5fbkKFbHhsJ_WlQ5epWwcz-4c1QBzcgs24w9OuzRlq6kwUyI0U7ZodGbNp3P"></code>
