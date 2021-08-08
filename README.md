@@ -22,6 +22,7 @@
   <code><img height="40" src="https://www.fatalerrors.org/images/blog/64dad673b14ed24d2733632b1afbc215.jpg"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnzqFviM4WXu681Me473hKHxu2uHxIkiEWsArF5-2JTdTaamLQjwDxQqqH8a6TGh_5bI&usqp=CAU"></code>
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
 	
 	
 
