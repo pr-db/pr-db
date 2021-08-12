@@ -21,11 +21,11 @@
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqiu-hjULb_PjgQp5BShFIAlbanJswzUvKZEPo8caeGzEh4prz7mEdW8aC1UVe5ToRqtU&usqp=CAU"></code>
   <code><img height="40" src="https://www.fatalerrors.org/images/blog/64dad673b14ed24d2733632b1afbc215.jpg"></code>
   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnzqFviM4WXu681Me473hKHxu2uHxIkiEWsArF5-2JTdTaamLQjwDxQqqH8a6TGh_5bI&usqp=CAU"></code>
-
+<!--
 [![Stats](https://github-readme-stats.vercel.app/api?username=pr-db&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=pr-db&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-db&layout=compact&theme=radical" />
-	
+-->
 
   
   
