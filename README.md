@@ -2,7 +2,7 @@
 
   <!--[![Visits Badge](https://badges.pufler.dev/visits/pr-db/pr-db)](https://badges.pufler.dev/visits/pr-db/pr-db)-->
 
-- 🔭 I’m an Electronics Junior at SVNIT Surat
+- 🔭 I’m an engineer from NIT Surat
 - 🌱 I’m currently working on ROS2
 - 🤔 I’m learning about Automation Robotics
 - 💬 Ask me about Robotics
